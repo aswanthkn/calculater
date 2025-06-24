@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Meeting with team",
+    "date": "2025-06-24",
+    "time": "10:00",
+    "duration": "1h"
+  },
+  {
+    "title": "Project deadline",
+    "date": "2025-06-24",
+    "time": "10:00",
+    "duration": "2h"
+  },
+  {
+    "title": "Doctor appointment",
+    "date": "2025-06-25",
+    "time": "14:00",
+    "duration": "30m"
+  },
+  {
+    "title": "Lunch with friend",
+    "date": "2025-06-25",
+    "time": "14:00",
+    "duration": "1h"
+  }
+]
